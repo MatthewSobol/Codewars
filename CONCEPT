@@ -1,0 +1,17 @@
+Codewars Concept:
+
+Codewars is a Starcraft-Like Battleground with units and buildings, yet
+
+- The movement, attack and building functions are driven by your own code!
+- The better code(r) wins!
+
+Structure:
+- Server / Client application
+- Client is an api for a programming language and the server, and has a visualisation function for the battelground
+- The server part is called the "battleground"
+
+Planned:
+- POC (coming soon)
+- Api for Python and C++ (more to come later)
+
+May the better code win!
